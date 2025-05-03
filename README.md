@@ -40,9 +40,3 @@ I will document and showcase various projects and exercises completed as part of
 
 ### 4. **Data Science Project: MATLAB for the Real World**
    - **Capstone Project**: A comprehensive data science project applying all learned techniques to a real-world dataset (e.g., COVID-19 trend analysis, flight delay prediction, etc.).
-
-## Installation
-
-To run the MATLAB scripts in this repository, you will need:
-- **MATLAB** (preferably with a student or professional license).
-- Access to the datasets used in each course (links provided in each project directory).
