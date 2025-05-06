@@ -13,8 +13,6 @@ The specialization consists of four courses:
 
 I will document and showcase various projects and exercises completed as part of each course in this repository.
 
-## Course Progress
-
 ### 1. **Exploratory Data Analysis with MATLAB**
    - **Modules**:
      - Introduction to the Data Science Workflow
